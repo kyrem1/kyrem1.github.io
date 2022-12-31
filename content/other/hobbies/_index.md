@@ -1,12 +1,11 @@
 ---
-title: "Other"
+title: "Hobbies"
 date: 2022-12-30
 ShowBreadCrumbs: false
-shotoc: false
+shotoc: true
 hiddenInHomeList: true
-tocopen: false
+tocopen: true
+ShowPostNavLinks: true
 ---
-
-
 
 

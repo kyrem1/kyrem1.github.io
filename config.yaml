@@ -167,12 +167,6 @@ menu:
       url: "other"
       weight: 20
 
-    - identifier: "test"
-      name: "test"
-      parent: "Other"
-      url: ""
-      weight: 20
-
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
