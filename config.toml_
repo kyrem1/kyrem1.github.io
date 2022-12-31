@@ -1,0 +1,191 @@
+baseURL = "https://kyrem1.github.io/"
+title = "James Harbour"
+paginate = 5
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+#googleAnalytics = "UA-123-45"
+
+pygmentsUseClasses = true
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+
+[params]
+env = "production"
+title = "James Harbour"
+description = "James Harbour's website"
+keywords = [ "math", "mathematics", "operator algebras", "analysis", "noncommutative geometry"]
+author = "James Harbour"
+# images = [ "<link or path of image for opengraph, twitter-cards>" ]
+
+math = true
+
+DateFormat = '2006-01-02'
+
+defaultTheme = "light"
+disableThemeToggle = true
+
+ShowBreadCrumbs = true
+
+ShowRssButtonInSectionTermList = true
+ShowFullTextinRSS = true
+
+showtoc = true
+tocopen = true
+UseHugoToc = false
+
+ShowReadingTime = true
+ShowShareButtons = false
+ShowPostNavLinks = true
+
+
+ShowCodeCopyButtons = false
+ShowWordCount = true
+
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+
+hidemeta = false
+hideSummary = false
+
+  [params.assets]
+  favicon = "favicon.ico"
+  favicon16x16 = "favicon-16x16.png"
+  favicon32x32 = "favicon-32x32.png"
+  apple_touch_icon = "apple-touch-icon.png"
+#  safari_pinned_tab = "favicon-32x32.png"
+
+  [params.label]
+  text = "James Harbour"
+  icon = "/img/guraltsev-2glasses.jp"
+#  icon = "/favicon/apple-icon.png"
+  iconHeight = 48
+
+  [params.profileMode]
+  enabled = false
+  title = "James Harbour"
+  subtitle = ""
+  imageUrl = "/img/guraltsev-1x1.jpg"
+  imageWidth = 400
+  imageHeight = 400
+  imageTitle = "my image"
+
+    # [[params.profileMode.buttons]]
+    # name = "Posts"
+    # url = "posts"
+
+    # [[params.profileMode.buttons]]
+    # name = "Tags"
+    # url = "tags"
+
+#  [params.homeInfoParams]
+#  Title = "Gennady Uraltsev"
+#  Content = "Whyburn Research Associate - UVA"
+
+   [[params.socialIcons]]
+   name = "cv"
+   url = "https://github.com/kyrem1/james2022cv/blob/b6e14c89be602015f823ab3f722b46bf5b64ff73/mathCVcurrent/cv2022.pdf"
+
+  # [[params.socialIcons]]
+  # name = "arXiv"
+  # url = "https://arxiv.org/a/uraltsev_g_1.html"
+
+   [[params.socialIcons]]
+   name = "github"
+   url = "https://github.com/kyrem1"
+
+   [[params.socialIcons]]
+   name = "email"
+   url = "mailto:james.h.harbour@gmail.com"
+
+  # [[params.socialIcons]]
+  # name = "googlescholar"
+  # url = "https://scholar.google.com/citations?user=MyoBqN8AAAAJ"
+
+
+  # [[params.socialIcons]]
+  # name = "stackoverflow"
+  # url = "https://stackoverflow.com"
+
+
+# [params.analytics.google]
+# SiteVerificationTag = "XYZabc"
+
+# [params.analytics.bing]
+# SiteVerificationTag = "XYZabc"
+
+# [params.analytics.yandex]
+# SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  [params.editPost]
+  URL = "https://github.com/guraltsev/guraltsev.github.io/tree/main/content"
+  Text = "Edit"
+  appendFilePath = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+# [[menu.main]]
+# identifier = "Research"
+# name = "Research"
+# url = "research"
+# weight = 10
+
+# [[menu.main]]
+# identifier = "Publications"
+# name = "Publications"
+# url = "publications"
+# weight = 20
+
+[[menu.main]]
+identifier = "Talks and Travel"
+name = "Talks and travel"
+url = "talks-travel"
+weight = 30
+
+# [[menu.main]]
+# identifier = "Teaching"
+# name = "Teaching"
+# url = "teaching"
+# weight = 40
+
+
+# [[menu.main]]
+# identifier = "categories"
+# name = "categories"
+# url = "/categories/"
+# weight = 10
+
+# [[menu.main]]
+# identifier = "tags"
+# name = "tags"
+# url = "/tags/"
+# weight = 20
+
+# [[menu.main]]
+# identifier = "example"
+# name = "example.org"
+# url = "https://example.org"
+# weight = 30
+
+[markup.highlight]
+noClasses = false
+
