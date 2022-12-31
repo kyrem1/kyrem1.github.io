@@ -2,7 +2,7 @@ baseURL: "https://kyrem1.github.io/"
 title: "James Harbour"
 paginate: 5
 theme: "PaperMod"
-
+publishDir: "docs"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -93,11 +93,12 @@ params:
     - name: "cv"
       url: "https://github.com/kyrem1/james2022cv/blob/b6e14c89be602015f823ab3f722b46bf5b64ff73/mathCVcurrent/cv2022.pdf"
 
-     
     - name: "github"
       url: "https://github.com/kyrem1"
+
     - name: "email"
       url: "mailto:james.h.harbour@gmail.com"
+
     # name: "arXiv"
     # url: "https://arxiv.org/a/________.html"
 
@@ -122,7 +123,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/kyrem1/kyrem1.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -150,6 +151,7 @@ menu:
     #  url: "publications"
     #  weight: 20
 
+
     - identifier: "Talks and Travel"
       name: "Talks and travel"
       url: "talks-travel"
@@ -160,6 +162,16 @@ menu:
     #  url: "teaching"
     #  weight: 40
 
+    - identifier: "Other"
+      name: "Other"
+      url: "other"
+      weight: 20
+
+    - identifier: "test"
+      name: "test"
+      parent: "Other"
+      url: ""
+      weight: 20
 
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
