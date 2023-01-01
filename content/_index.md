@@ -23,7 +23,6 @@ I am currently studying operator algebras under [Dr. Benjamin Hayes](https://sit
 I am interested in various areas including:
 - Type-$II_1$ Subfactor Theory
 - $W^*$-rigidity for Group von Neumann algberas
-- $L^2$-betti numbers
 
 During high school, I took the a large amount of undergraduate and some graduate courses via dual enrollment at the [University of South Florida](https://www.usf.edu/arts-sciences/departments/mathematics-statistics/index.aspx). 
 

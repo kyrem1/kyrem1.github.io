@@ -155,7 +155,7 @@ menu:
     - identifier: "Talks and Travel"
       name: "Talks and travel"
       url: "talks-travel"
-      weight: 30
+      weight: 1
 
     #- identifier: "Teaching"
     #  name: "Teaching"
@@ -165,7 +165,7 @@ menu:
     - identifier: "Other"
       name: "Other"
       url: "other"
-      weight: 20
+      weight: 2
 
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
