@@ -48,7 +48,7 @@ params:
 
 
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: true 
 
   disableSpecial1stPost: false
   disableScrollToTop: false
