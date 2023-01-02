@@ -23,7 +23,7 @@ Here are my above 3x3 entries listed from left to right and top to bottom:
 - [Legend of the Galactic Heroes](https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu)
     - Imagine Star Wars but with strategic warfare backed by famous concertos/operas instead of lightsaber fights. One of the first space operas. It explores the age old question of whether one should prefer a poor democracy or an impeccable autocracy. The nuance in this show comes from the fact that it never seeks to answer this question, but merely provides viewers with the necessary prompting to come to their own conclusions.
 - [Log Horizon](https://myanimelist.net/anime/17265/Log_Horizon)
-    - TODO
+    - What type of political system would arise in a fantasy world running on game logic where the population is comprised of MMO gamers? Log Horizon explores this question in a thorougly intelligent manner. The best isekai by far. This show is largely dialogue-driven, so if you are looking for mainly action-based progression then this show is not for you. See Digibro's youtube analysis series of this show for further details on why it's genius.
 - [Ghost in the Shell: Stand Alone Complex](https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex)
     - TODO
 - [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)
