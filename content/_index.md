@@ -6,7 +6,7 @@ date: 2022-09-06
 {{< rawhtml >}}
 <div class="profile">
      <div class="profile_inner">
-{{< /rawhtml >}} {{< inTextImg url="guraltsev-1x1.jpg"  width=100% >}} {{< rawhtml >}} 
+{{< /rawhtml >}} {{< inTextImg url="james-1x1.jpg"  width=100% >}} {{< rawhtml >}} 
 <span>
 <h1>James Harbour</h1> 
 <h2>2nd Year Undergraduate studying Mathematics and Computer Science</h2>

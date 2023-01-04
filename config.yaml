@@ -22,7 +22,7 @@ params:
   env: "production"
   title: "James Harbour"
   description: "James Harbour's website"
-  keywords: [ "math", "mathematics", "operator algebras", "analysis", "noncommutative geometry"]
+  keywords: ["james", "james harbour", "james h harbour", "jameshharbour", "math", "mathematics", "operator algebras", "analysis", "noncommutative geometry"]
   author: "James Harbour"
     # images: [ "<link or path of image for opengraph, twitter-cards>" ]
 
@@ -50,7 +50,7 @@ params:
   ShowCodeCopyButtons: false
   ShowWordCount: true 
 
-  disableSpecial1stPost: false
+  disableSpecial1stPost: true
   disableScrollToTop: false
   comments: false
 
@@ -62,19 +62,19 @@ params:
     favicon16x16: "favicon-16x16.png"
     favicon32x32: "favicon-32x32.png"
     apple_touch_icon: "apple-touch-icon.png"
-      #  safari_pinned_tab: "favicon-32x32.png"
+    # safari_pinned_tab: "favicon-32x32.png"
 
   label:
     text: "James Harbour"
-    icon: "/img/guraltsev-2glasses.jp"
+    icon: "/img/james-2x2.jpg"
       #  icon: "/favicon/apple-icon.png"
-    iconHeight: 48
+    iconHeight: 34
 
   profileMode:
     enabled: false
     title: "James Harbour"
     subtitle: ""
-    imageUrl: "/img/guraltsev-1x1.jpg"
+    imageUrl: ""
     imageWidth: 400
     imageHeight: 400
     imageTitle: "my image"
@@ -162,10 +162,16 @@ menu:
     #  url: "teaching"
     #  weight: 40
 
+    - identifier: "Blog"
+      name: "Blog"
+      url: "blog"
+      weight: 2
+
     - identifier: "Other"
       name: "Other"
       url: "other"
-      weight: 2
+      weight: 3 
+
 
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
