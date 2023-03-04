@@ -21,8 +21,10 @@ date: 2022-09-06
 I am currently studying operator algebras under [Dr. Benjamin Hayes](https://sites.google.com/site/benhayeshomepage/) at the University of Virginia, partially supported by NSF grant DMS-2000105.
 
 I am interested in various areas including:
-- Type-$II_1$ Subfactor Theory
+- Deformation/Rigidity theory for von Neumann algebras
 - $W^*$-rigidity for Group von Neumann algberas
+- Type-$II_1$ Subfactor Theory
+- Quantum Information Theory
 
 During high school, I took the a large amount of undergraduate and some graduate courses via dual enrollment at the [University of South Florida](https://www.usf.edu/arts-sciences/departments/mathematics-statistics/index.aspx). 
 

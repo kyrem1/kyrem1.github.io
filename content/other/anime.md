@@ -25,7 +25,7 @@ Here are my above 3x3 entries listed from left to right and top to bottom:
 - [Log Horizon](https://myanimelist.net/anime/17265/Log_Horizon)
     - What type of political system would arise in a fantasy world running on game logic where the population is comprised of MMO gamers? Log Horizon explores this question in a thorougly intelligent manner. The best isekai by far. This show is largely dialogue-driven, so if you are looking for mainly action-based progression then this show is not for you. See Digibro's youtube analysis series of this show for further details on why it's genius.
 - [Ghost in the Shell: Stand Alone Complex](https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex)
-    - TODO
+    - The original *Ghost in the Shell* film was the progenitor for sci-fi anime and set the tone for the genre. It utilized the setting to address incredibly poigniant themes such as the nature of intelligence and the soul. The spin-off series *Stand Alone Complex* further pursues these themes with the precision of a scalpel. The show has thematic fish to fry and it isn't afraid to go all in.
 - [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)
     - TODO
 - [Steins Gate](https://myanimelist.net/anime/9253/Steins_Gate)

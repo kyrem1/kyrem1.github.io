@@ -4,10 +4,19 @@ date: 2022-09-06
 ShowBreadCrumbs: false
 ---
 ## Future talks and conferences
-- 2023-01
-*[Joint Math Meetings - Boston](https://www.jointmathematicsmeetings.org//jmm)*, attendee
+- 2023-05
+**Great Plains Operator Theory Symposium**
+*Ohio State University*, attendee.
+
+- 2023-05
+**Noncommutative Geometry and Operator Algebras (NCGOA) Spring Institute**,
+*Vanderbilt University*, attendee.
 
 ## Selected travel
+- 2023-01
+**Joint Math Meetings - Boston**,
+attendee, supported by NSF grant DMS-2000105.
+
 - 2022-10
 **East Coast Operator Algebras Symposium**,
 *Michigan State University*, attendee, supported by NSF grant DMS-2035183.

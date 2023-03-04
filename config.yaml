@@ -91,7 +91,7 @@ params:
 
   socialIcons:
     - name: "cv"
-      url: "https://github.com/kyrem1/james2022cv/blob/b6e14c89be602015f823ab3f722b46bf5b64ff73/mathCVcurrent/cv2022.pdf"
+      url: "https://github.com/kyrem1/james2022cv/blob/master/mathCVcurrent/cv2023.pdf"
 
     - name: "github"
       url: "https://github.com/kyrem1"
@@ -141,10 +141,10 @@ params:
 
 menu:
   main:
-    #- identifier: "Research"
-    #  name: "Research"
-    #  url: "research"
-    #  weight: 10
+    - identifier: "Research"
+      name: "Research"
+      url: "research"
+      weight: 10
 
     #- identifier: "Publications"
     #  name: "Publications"
