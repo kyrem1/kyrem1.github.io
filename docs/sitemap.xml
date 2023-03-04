@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kyrem1.github.io/blog/mathletter/</loc>
+    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kyrem1.github.io/research/</loc>
+    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kyrem1.github.io/blog/blackmetal/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,13 +20,10 @@
     <loc>https://kyrem1.github.io/other/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kyrem1.github.io/other/hobbies/anime/</loc>
+    <loc>https://kyrem1.github.io/other/anime/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kyrem1.github.io/other/hobbies/</loc>
-    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kyrem1.github.io/other/hobbies/music/</loc>
+    <loc>https://kyrem1.github.io/other/music/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kyrem1.github.io/</loc>
