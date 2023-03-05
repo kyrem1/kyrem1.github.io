@@ -11,7 +11,7 @@ I hope this letter finds you well. It has been quite the ride together hasn't it
 Because of you, I have other options. I don't have to forget how to play. 
 
 TODO *insert picture of young James*
-
+Hello there
 
 Oddly enough, through you I have learned an incredible amount about myself. Through you, I have slowly been discovering who I am and what type of person I desire to be.
 
