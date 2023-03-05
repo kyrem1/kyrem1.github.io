@@ -28,7 +28,7 @@ I am interested in various areas including:
 
 During high school, I took the a large amount of undergraduate and some graduate courses via dual enrollment at the [University of South Florida](https://www.usf.edu/arts-sciences/departments/mathematics-statistics/index.aspx). 
 
-During that time, I received mentorship from [Dr. Thomas Bieske](https://secure.cas.usf.edu/depts/mth/faculty/bieske/) and [Dr. Brendan Nagle](https://secure.cas.usf.edu/depts/mth/faculty/bnagle/).
+During that time, I received mentorship from [Dr. Thomas Bieske](https://www.usf.edu/arts-sciences/departments/mathematics-statistics/people/faculty/thomas-bieske.aspx) and [Dr. Brendan Nagle](https://www.usf.edu/arts-sciences/departments/mathematics-statistics/people/faculty/brendan-nagle.aspx).
 
 {{< rawhtml >}}
 </div></div>
