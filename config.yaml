@@ -30,8 +30,8 @@ params:
 
   DateFormat: '2006-01-02'
 
-  defaultTheme: "light"
-  disableThemeToggle: true
+  defaultTheme: "dark"
+  disableThemeToggle: false 
 
   ShowBreadCrumbs: true
 
