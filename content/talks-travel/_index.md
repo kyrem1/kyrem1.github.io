@@ -27,6 +27,10 @@ attendee, supported by NSF grant DMS-2000105.
 
 
 ## Selected talks
+- 2023-4
+**Maximal rigidity for $L^2$-cohomology of Groups and Beyond**,
+*[UVA Operator Algebras seminar](https://math.virginia.edu/seminars/sotoa/)*, speaker.
+
 - 2022-11
 **Index Rigidity for type-$II_1$ Subfactors**,
 *[UVA Operator Algebras seminar](https://math.virginia.edu/seminars/sotoa/)*, speaker.

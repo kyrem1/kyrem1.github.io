@@ -25,6 +25,7 @@ Below is a slew of blogs and sites I frequent for various reasons.
 
 ## CS Blogs
 * [0x46](https://0x46.net/)
+* [ReasonableDeviations](https://reasonabledeviations.com/)
 
 ## Otaku blogs
 {{< rawhtml >}}

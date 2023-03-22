@@ -18,7 +18,7 @@ date: 2022-09-06
 {{< /rawhtml >}} 
 
 
-I am currently studying operator algebras under [Dr. Benjamin Hayes](https://sites.google.com/site/benhayeshomepage/) at the University of Virginia, partially supported by NSF grant DMS-2000105.
+I am a 2nd year undergraduate currently studying operator algebras under [Dr. Benjamin Hayes](https://sites.google.com/site/benhayeshomepage/) at the University of Virginia, partially supported by NSF grant DMS-2000105.
 
 I am interested in various areas including:
 - Deformation/Rigidity theory for von Neumann algebras

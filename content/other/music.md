@@ -12,10 +12,6 @@ ShowPostNavLinks: true
 
 ![3x3 music](3x3music1200.jpg)
 
-⠀ | ⠀
-:---:|:---:
-![3x3 music](3x3music600.jpg) | ![3x3 music](3x3music600.jpg)
-
 
 Here are my above 3x3 entries listed from left to right and top to bottom:
 
