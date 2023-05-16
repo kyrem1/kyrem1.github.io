@@ -35,15 +35,21 @@ Around the beginning of the COVID-19 pandemic, I entered into a rabbit hole so e
 </style>
 <div class="container" style="width: 630px; max-width: 100%;">
 <figure>
+<a class="aimg" href="https://www.youtube.com/c/pipkinpippa">
   <img src="https://characterai.io/i/300/static/avatars/uploaded/2022/10/6/BtUEqYZYEweIhWhWDbISA_2TlSIL6S24XejGMEmp1eo.webp"  width="200" height="200">
+</a>
   <figcaption style="text-align:center;">Pipkin Pippa</figcaption>
 </figure>
 <figure>
-  <img src="https://yt3.googleusercontent.com/ab1p41f1quWyteO6IHaYVEXpZHsoftG3TejXnFEffSGndsOI5vCYGIWPG6-Rj7dtxLLWOGrd9g=s900-c-k-c0x00ffffff-no-rj"  width="200" height="200">
+<a class="aimg" href="https://www.youtube.com/channel/UC3K7pmiHsNSx1y0tdx2bbCw">
+  <img src="https://preview.redd.it/1t3hbzumla571.jpg?width=1080&crop=smart&auto=webp&v=enabled&s=6776972a4de2fb0041b63a23dc62fd958eead04c"  width="200" height="200">
+</a>
   <figcaption style="text-align:center;">Tenma Maemi</figcaption>
 </figure>
 <figure>
+<a class="aimg" href="https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ">
   <img src="https://i.pinimg.com/736x/ed/74/7c/ed747c167e6f0e70973781bfea3910e6.jpg"  width="200" height="200">
+  </a>
   <figcaption style="text-align:center;">Ceres Fauna</figcaption>
 </figure>
 </div>
@@ -71,9 +77,19 @@ Whether it be Gura continually claiming to be a shark girl from Atlantis or Faun
 
 ### /vt/
 
+The 4chan /vt/ board is somewhat of an enigma in the vtuber community. Watching its denizens treat viewer and subscriber counts like sports betting is genuinely hilarious.
+
+There is an assortment of subcommunities on the board which are constantly at war, as can be seen in this video. 
+
+{{< youtube EZI3RaYh6hI >}}
+
+This board is a cesspool for tribalism.
+
 # The Vtuber Industry
 
 ### Hololive
+
+Hololive is the golden goose of the vtuber industry. Being the first onto the scene in late 2017 with the debut of Tokino Sora, their growth begi
 
 ### Nijisanji
 

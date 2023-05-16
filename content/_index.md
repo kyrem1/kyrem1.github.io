@@ -22,7 +22,7 @@ I am a 2nd year undergraduate currently studying operator algebras under [Dr. Be
 
 I am interested in various areas including:
 - Deformation/Rigidity theory for von Neumann algebras
-- $W^*$-rigidity for Group von Neumann algberas
+- $W^*$-rigidity for Group von Neumann algebras
 - Type-$II_1$ Subfactor Theory
 - Quantum Information Theory
 
