@@ -2,6 +2,7 @@
 title: "A Thank You Letter to Math"
 date: 2023-03-03
 ShowBreadCrumbs: false
+draft: true
 ---
 
 Dear Mathematics,
