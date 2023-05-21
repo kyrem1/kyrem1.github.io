@@ -2,6 +2,7 @@
 title: "The appeal of Vtubers"
 date: 2023-03-01
 ShowBreadCrumbs: false
+draft: true
 ---
 
 Around the beginning of the COVID-19 pandemic, I entered into a rabbit hole so enourmous I may never climb out of it. It all started with a clip of Shirakami Fubuki singing Scatman. And now I'm here; three years later still stuck watching streams at the end of nearly every day.
