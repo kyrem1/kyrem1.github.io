@@ -5,6 +5,10 @@ ShowBreadCrumbs: false
 ---
 
 ## Selected travel
+- 2023-Summer
+ **UChicago REU**
+ Full participant
+
 - 2023-05
 **Noncommutative Geometry and Operator Algebras (NCGOA) Spring Institute**,
 *Vanderbilt University*, attendee.
