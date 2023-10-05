@@ -5,15 +5,18 @@ showtoc: false
 hiddenInHomeList: false
 tocopen: false
 ShowPostNavLinks: true
-draft: true
 ---
 
 ## Quintessential Webnovels
-* hi there
 * [Release that Witch](https://www.novelupdates.com/series/release-that-witch/)
 * [The Legendary Mechanic](https://www.novelupdates.com/series/the-legendary-mechanic/)
+* [The Beginning After the End](https://lightnovelpub.vip/novel/the-beginning-after-the-end-web-novel-16091313)
 
 ### Release that Witch
+
+A mechanical engineer's wet dream. Imagine you knew how to build a steam engine by heart because you had to learn that in university. Then, imagine you suddenly awoke in the body of a pre-industrial revolution prince overseeing a shoddy, border town. You are screwed. Your Harvard education won't help you block a sword to the chest.
+
+But wait. The world you have transported into has people, called witches, who can perform supernatural feats. You stumble upon a withc with the ability to spontaneuously heat things up. Okay now you can make iron. Then you remember the crafting recipie for cement. Boom now you've invented cement. Then you make precision machine tools. Now you have a steam engine. Now you have trains, and guns, and steam boats. Dumb fun at its finest.
 
 ### The Legendary Mechanic
 
@@ -32,6 +35,8 @@ draft: true
 
 
 ### Overlord (top center)
+Best world building of any isekai.
+
 
 ### Mushoku Tensei (center left)
 
