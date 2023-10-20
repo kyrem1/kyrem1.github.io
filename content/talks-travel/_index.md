@@ -38,6 +38,11 @@ ShowBreadCrumbs: false
 
 
 ## Upcoming travel
+- 2024-01
+**Joint Math Meetings - San Francisco**,
+speaker, supported by AMS undergraduate travel grant.
+
+## Selected travel
 - 2023-10
 **East Coast Operator Algebras Symposium**,
 *Purdue University*, attendee, supported by NSF grant DMS-2321632
@@ -48,7 +53,6 @@ ShowBreadCrumbs: false
 *Richmond University*, attendee.
 
 
-## Selected travel
 - 2023-Summer
 **UChicago REU**
 Full participant
