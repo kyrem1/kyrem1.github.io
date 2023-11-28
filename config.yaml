@@ -91,7 +91,7 @@ params:
 
   socialIcons:
     - name: "cv"
-      url: "https://github.com/kyrem1/james2022cv/blob/master/financeResume/tmp/financeResume.pdf"
+      url: "https://github.com/kyrem1/james2022cv/blob/master/resume_general/tmp/resume_general.pdf"
 
     - name: "github"
       url: "https://github.com/kyrem1"

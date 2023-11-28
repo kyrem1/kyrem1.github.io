@@ -25,7 +25,7 @@ I am interested in various areas including:
 - Deformation/Rigidity theory for Groupoid von Neumann algebras
 - Bernoullicity of Algebraic Actions 
 - $W^*$-rigidity for Group von Neumann algebras
-- Type-$II_1$ Subfactor Theory
+- Non-free p.m.p. actions
 
 During high school, I took a large amount of undergraduate and some graduate courses via dual enrollment at the [University of South Florida](https://www.usf.edu/arts-sciences/departments/mathematics-statistics/index.aspx). 
 
