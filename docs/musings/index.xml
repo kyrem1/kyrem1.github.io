@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James Harbour</title>
     <link>https://kyrem1.github.io/musings/</link>
     <description>Recent content on James Harbour</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kyrem1.github.io/musings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kyrem1.github.io/musings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Black Metal?</title>
       <link>https://kyrem1.github.io/musings/blackmetal/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://kyrem1.github.io/musings/blackmetal/</guid>
       <description>I can&amp;rsquo;t quite remember when exactly I discovered black metal. I had been in the metal scene for a while listening to prog metal from bands such as Ne Obliviscaris and Xanathochroid, and I gradually shifted towards the heavier side of metal in Death Metal. I was and still am a major Spawn of Possession and Angelmaker fan. However, one thing that this heavier side of metal lacked in my eyes was emotional depth.</description>
       <content:encoded><![CDATA[<p>I can&rsquo;t quite remember when exactly I discovered black metal. I had been in the metal scene for a while listening to prog metal from bands such as Ne Obliviscaris and Xanathochroid, and I gradually shifted towards the heavier side of metal in Death Metal. I was and still am a major Spawn of Possession and Angelmaker fan. However, one thing that this heavier side of metal lacked in my eyes was emotional depth. Behind the blistering blastbeats and gut-curdling screams, it is hard to find any emotional backbone besides the expression of pure, unadulterated rage.</p>
@@ -37,11 +37,16 @@
   flex-direction: row;
   flex-wrap: nowrap;
   align-items: flex-start;
+
+  /* Centering horizontally */
+  justify-content: center;
+  width: 100%;
+  margin: 0 auto;
 }
 </style>
 <div class="container" style="width: 630px; max-width: 100%;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/3a/Mayhem_demysteriisdomsathanas.jpg"  width="250" height="250">
-  <img src="https://i.kym-cdn.com/entries/icons/original/000/002/931/Varg_Vikernes.png"  width="250" height="250">
+  <img src="mayhem_demysteriis.jpg"  width="250" height="250">
+  <img src="varg.webp"  width="250" height="250">
 </div>
 
 
@@ -50,7 +55,7 @@
 <h2 id="third-wave">Third Wave</h2>
 <p>There are various flavors of black metal with complex emotional storylines:</p>
 <ul>
-<li>DSBM - Depressive Suicidal Black Metal</li>
+<li>DSBM - Depressive Black Metal</li>
 <li>ABM - Atmospheric Black Metal</li>
 <li>Pacifist Black Metal</li>
 </ul>
@@ -79,7 +84,8 @@
 </div>
 
 <h3 id="atmospheric-black-metal">Atmospheric Black Metal</h3>
-<p>Atomospheric black metal displays its emotion through a <em>slow burn</em>. It is often said that this music is meant to be listened to outside in the snow. My recommendation for this corner of black metal is the Russian band Путь (&ldquo;put&rdquo;).</p>
+<p>Atomospheric black metal displays its emotion through a <em>slow burn</em>.
+Songs are often significantly longer in this subgenre. Some say that this music is meant to be listened to outside in the snow. My recommendation for this corner of black metal is the Russian band Путь (/putʲ/, meaning &ldquo;path&rdquo;).</p>
 <h3 id="pacifist-black-metal">Pacifist Black Metal</h3>
 <p>Pacifist black metal is my favorite of the bunch. The majority of bands under this genre are World War I remembrance bands (e.b. Kanonenfieber, Minenwerfer, 1914) . There is a palpable sense of regret in this music, at times somewhat crushing. To see what I&rsquo;m talking about, listen to <em>Der Blutharsch</em> by Minenwerfer (first 17 minutes of the album below) in a single sitting. I can guarantee a religious experience.</p>
 
@@ -105,6 +111,5 @@
 
 ]]></content:encoded>
     </item>
-    
   </channel>
 </rss>

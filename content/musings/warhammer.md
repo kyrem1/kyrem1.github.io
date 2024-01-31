@@ -2,6 +2,7 @@
 title: "Greek Tragedy and Warhammer 40k"
 date: 2023-03-02
 ShowBreadCrumbs: false
+hhiddenInHomeList: true
 draft: true
 ---
 

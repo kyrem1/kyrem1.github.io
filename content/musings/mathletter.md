@@ -1,6 +1,7 @@
 ---
 title: "A Thank You Letter to Math"
 date: 2023-03-03
+hhiddenInHomeList: true
 ShowBreadCrumbs: false
 draft: true
 ---

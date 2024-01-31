@@ -2,8 +2,8 @@
 title: Math Books Recommendations
 ShowBreadCrumbs: true 
 showtoc: true
-hiddenInHomeList: false
 tocopen: false
+hiddenInHomeList: True
 draft: true
 ShowPostNavLinks: true
 ---

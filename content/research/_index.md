@@ -14,8 +14,8 @@ Given a probability measure preserving groupoid $\mathcal{G}$, we study properti
 
 * [Asymptotics of Fractional Sobolev Norms and $s$-Perimeter](https://github.com/kyrem1/fractionalperimeter/blob/main/tmp/main.pdf)
 
-* [Notes on the Gaussian Construction for Measured Equivalence Relations](https://github.com/kyrem1/def-rig-equivReln-Groupoids/blob/main/Hilbert%20Bundles%20and%20Equivalence%20Relations/equiv.pdf)
+* [Notes on the Gaussian Construction for Measured Equivalence Relations](https://github.com/kyrem1/math-backup/blob/main/Notes/Oalgs/Hilbert%20Bundles%20and%20Equivalence%20Relations/tmp/equiv.pdf)
 
-* [Malleable deformations for Measured Groupoid von Neumann Algebras](https://github.com/kyrem1/def-rig-equivReln-Groupoids/blob/main/Deformations%20of%20Groupoid%20Algebras/main.pdf)
+<!-- * [Malleable deformations for Measured Groupoid von Neumann Algebras](https://github.com/kyrem1/def-rig-equivReln-Groupoids/blob/main/Deformations%20of%20Groupoid%20Algebras/main.pdf) -->
 
 

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James Harbour</title>
     <link>https://kyrem1.github.io/other/</link>
     <description>Recent content on James Harbour</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kyrem1.github.io/other/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kyrem1.github.io/other/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anime</title>
       <link>https://kyrem1.github.io/other/anime/</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://kyrem1.github.io/other/anime/</guid>
       <description>MyAnimeList My current 3x3 Here are my above 3x3 entries listed from left to right and top to bottom:
 Gankutsuou An anime adaptation of the classic novel The Count of Monte Cristo, set in 5053 space-France. It takes the best revenge story ever written into the world of anime. Has a wonderful slow build just like the novel, where the Count sets up dominoes in front of your eyes but you just don&amp;rsquo;t know it yet.</description>
@@ -75,12 +75,10 @@ Gankutsuou An anime adaptation of the classic novel The Count of Monte Cristo, s
 </ul>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Music</title>
       <link>https://kyrem1.github.io/other/music/</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://kyrem1.github.io/other/music/</guid>
       <description>My Current 3x3 Here are my above 3x3 entries listed from left to right and top to bottom:
 Portal of I, Ne Obliviscaris TODO Chet Baker Sings TODO For You, Tatsuro Yamashita TODO All of Me, Masayoshi Takanaka TODO N.O.I.S.E., Ghostemane TODO Exercises in Futility, mgla TODO World is Yours, Mass of the Fermenting Dregs From the first few seconds, this album exudes a sense of freedom that is hard to find in the modern music landscape.</description>
@@ -162,12 +160,10 @@ Portal of I, Ne Obliviscaris TODO Chet Baker Sings TODO For You, Tatsuro Yamashi
 </ul>
 ]]></content:encoded>
     </item>
-    
     <item>
       <title>Light/Web Novels and Manga</title>
       <link>https://kyrem1.github.io/other/manga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://kyrem1.github.io/other/manga/</guid>
       <description>Quintessential Webnovels Release that Witch The Legendary Mechanic The Beginning After the End Release that Witch A mechanical engineer&amp;rsquo;s wet dream. Imagine you knew how to build a steam engine by heart because you had to learn that in university. Then, imagine you suddenly awoke in the body of a pre-industrial revolution prince overseeing a shoddy, border town. You are screwed. Your Harvard education won&amp;rsquo;t help you block a sword to the chest.</description>
       <content:encoded><![CDATA[<h2 id="quintessential-webnovels">Quintessential Webnovels</h2>
@@ -200,6 +196,5 @@ Portal of I, Ne Obliviscaris TODO Chet Baker Sings TODO For You, Tatsuro Yamashi
 <h3 id="kasane-center-right">Kasane (center right)</h3>
 ]]></content:encoded>
     </item>
-    
   </channel>
 </rss>

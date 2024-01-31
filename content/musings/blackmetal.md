@@ -1,6 +1,7 @@
 ---
 title: "Why Black Metal?"
 date: 2023-03-02
+hhiddenInHomeList: true
 ShowBreadCrumbs: false
 ---
 
@@ -33,11 +34,16 @@ The second wave of black metal is marked by stauch anti-christian imagery and se
   flex-direction: row;
   flex-wrap: nowrap;
   align-items: flex-start;
+
+  /* Centering horizontally */
+  justify-content: center;
+  width: 100%;
+  margin: 0 auto;
 }
 </style>
 <div class="container" style="width: 630px; max-width: 100%;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/3a/Mayhem_demysteriisdomsathanas.jpg"  width="250" height="250">
-  <img src="https://i.kym-cdn.com/entries/icons/original/000/002/931/Varg_Vikernes.png"  width="250" height="250">
+  <img src="mayhem_demysteriis.jpg"  width="250" height="250">
+  <img src="varg.webp"  width="250" height="250">
 </div>
 
 {{< /rawhtml >}}
@@ -50,7 +56,7 @@ The second wave style represents the baseline of black metal which further subge
 ## Third Wave
 
 There are various flavors of black metal with complex emotional storylines:
-* DSBM - Depressive Suicidal Black Metal
+* DSBM - Depressive Black Metal
 * ABM - Atmospheric Black Metal
 * Pacifist Black Metal
 
@@ -83,7 +89,8 @@ There is a large number of truly brilliant one person projects in this subgenre,
 
 
 ### Atmospheric Black Metal
-Atomospheric black metal displays its emotion through a *slow burn*. It is often said that this music is meant to be listened to outside in the snow. My recommendation for this corner of black metal is the Russian band Путь ("put").
+Atomospheric black metal displays its emotion through a *slow burn*.
+Songs are often significantly longer in this subgenre. Some say that this music is meant to be listened to outside in the snow. My recommendation for this corner of black metal is the Russian band Путь (/putʲ/, meaning "path"). 
 
 ### Pacifist Black Metal
 Pacifist black metal is my favorite of the bunch. The majority of bands under this genre are World War I remembrance bands (e.b. Kanonenfieber, Minenwerfer, 1914) . There is a palpable sense of regret in this music, at times somewhat crushing. To see what I'm talking about, listen to *Der Blutharsch* by Minenwerfer (first 17 minutes of the album below) in a single sitting. I can guarantee a religious experience.

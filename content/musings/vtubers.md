@@ -2,10 +2,11 @@
 title: "The appeal of Vtubers"
 date: 2023-03-01
 ShowBreadCrumbs: false
+hhiddenInHomeList: true
 draft: true
 ---
 
-Around the beginning of the COVID-19 pandemic, I entered into a rabbit hole so enourmous I may never climb out of it. It all started with a clip of Shirakami Fubuki singing Scatman. And now I'm here; three years later still stuck watching streams at the end of nearly every day.
+Around the beginning of the COVID-19 pandemic, I entered into a rabbit hole so enourmous I may never climb out of it. It all started with a clip of Shirakami Fubuki singing Scatman. And now I'm here; four years later still stuck listening to streams in the background of my work.
 
 
 - Pipkin Pippa (Phase Connect)
@@ -76,6 +77,7 @@ Whether it be Gura continually claiming to be a shark girl from Atlantis or Faun
 
 ### Discord
 
+<!--
 ### /vt/
 
 The 4chan /vt/ board is somewhat of an enigma in the vtuber community. Watching its denizens treat viewer and subscriber counts like sports betting is genuinely hilarious.
@@ -85,6 +87,9 @@ There is an assortment of subcommunities on the board which are constantly at wa
 {{< youtube EZI3RaYh6hI >}}
 
 This board is a cesspool for tribalism.
+-->
+
+### PL Culture (nyfco)
 
 # The Vtuber Industry
 

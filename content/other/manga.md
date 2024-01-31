@@ -2,8 +2,8 @@
 title: "Light/Web Novels and Manga"
 ShowBreadCrumbs: true 
 showtoc: false 
-hiddenInHomeList: false
-tocopen: false
+hiddenInHomeList: True
+ocopen: false
 ShowPostNavLinks: true
 ---
 
