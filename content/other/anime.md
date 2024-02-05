@@ -3,7 +3,7 @@ title: "Anime"
 date: 2022-12-30
 ShowBreadCrumbs: true 
 showtoc: false 
-hhiddenInHomeList: true
+hiddenInHomeList: true
 tocopen: false
 ShowPostNavLinks: true
 ---
