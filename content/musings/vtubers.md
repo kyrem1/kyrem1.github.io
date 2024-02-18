@@ -1,6 +1,6 @@
 ---
 title: "The appeal of Vtubers"
-date: 2023-03-01
+date: 2024-01-17
 ShowBreadCrumbs: false
 hhiddenInHomeList: true
 draft: true
@@ -63,11 +63,14 @@ Around the beginning of the COVID-19 pandemic, I entered into a rabbit hole so e
 
 
 ## Clipping Channels
-Clippers are an integral part of the vtuber community and stand as the gatekeepers to the neverending rabbit hole.
+
+Clippers hold a pivotal role within the VTuber ecosystem, acting as essential conduits between VTubers and potential fans. These dedicated individuals spend countless hours sifting through streams, highlighting memorable moments, and making them accessible to a wider audience. Their work not only amplifies the reach of VTubers but also serves as a curated introduction for newcomers to the community. The magic of clipping channels lies in their ability to distill hours of content into bite-sized, easily digestible pieces that capture the essence, humor, and talent of VTubers. This not only helps in breaking down language barriers but also showcases the diverse talents and personalities within the VTuber community.
 
 ## Kayfabe
 
 Kayfabe is a term from professional wrestling which expresses the convention of presenting the staged performance as genuine/authentic. This term has been adapted to the vtuber scene to mean one's keeping up the illusion of the truth of one's lore.
+
+The concept of kayfabe extends beyond the ring, weaving its way into the heart of VTuber culture. This theatrical portrayal, where VTubers immerse themselves and their audience in a constructed persona or narrative, creates a unique blend of storytelling and entertainment. It allows fans to suspend disbelief and engage with characters on a level that transcends the ordinary, fostering a rich, immersive world where fantasy and reality blur. The artistry behind maintaining kayfabe, while being transparent about its performative nature, invites fans to partake in a shared illusion, creating a bond that is both intimate and expansive.
 
 Whether it be Gura continually claiming to be a shark girl from Atlantis or Fauna professing that she is mother nature, kayfabe is an integral part of the vtuber community. However, unlike wrestling, kayfabe is not the fount from which we derive entertainment from the genre. It is more like a necessary but not sufficient condition to be able to call oneself a genuine vtuber: it won't make you loved by itself, but you must have a kayfabe in order to be successful.
 
@@ -75,7 +78,12 @@ Whether it be Gura continually claiming to be a shark girl from Atlantis or Faun
 
 ### Reddit
 
+Reddit acts as a bustling hub for the VTuber community, offering a mosaic of fan art, discussions, memes, and news updates. Each VTuber or agency has dedicated subreddits where fans from around the globe converge to share their admiration, creativity, and thoughts. This platform facilitates a sense of belonging and community among fans, providing a space where their voices can be heard and their contributions celebrated. The democratic nature of Reddit, where content is upvoted based on community approval, ensures that the most engaging, humorous, or insightful posts gain visibility, fostering a dynamic and interactive fan culture.
+
+
 ### Discord
+
+Discord serves as the living room for the VTuber community—a place where fans gather to chat in real-time, share content, and participate in community events. Many VTubers host their own official servers, offering a direct line of communication with their audience. These servers often become micro-communities, where fans can make personal connections, discuss streams, and even organize community projects or events. The real-time interaction on Discord enhances the communal experience, making fans feel closer to the VTubers they support and fostering a tight-knit community.
 
 <!--
 ### /vt/
@@ -91,14 +99,17 @@ This board is a cesspool for tribalism.
 
 ### PL Culture (nyfco)
 
+Past Life Culture (PL Culture) within the VTuber community refers to the discussions, speculations, and sometimes the acknowledgement of VTubers' identities or activities before they adopted their virtual personas. This aspect of VTuber fandom is nuanced, with varying degrees of acceptance and sensitivity both among fans and VTubers themselves.
+
 # The Vtuber Industry
 
 ### Hololive
 
-Hololive is the golden goose of the vtuber industry. Being the first onto the scene in late 2017 with the debut of Tokino Sora, their growth begi
+Hololive stands as a titan in the VTuber industry, a beacon of innovation and entertainment. Since its inception, Hololive has pioneered the growth of the VTuber phenomenon, bringing together a diverse array of talents under its banner. The agency's success lies not just in its ability to scout and nurture talent, but also in its visionary approach to content creation, fan engagement, and cross-cultural expansion. Hololive VTubers are known for their charismatic personalities, creative content, and the high production value of their streams. This, combined with strategic global outreach, has cemented Hololive's position as a leading force in the virtual entertainment landscape.
 
-### Nijisanji
 
 ### Phase Connect
+Phase Connect represents the dynamic and evolving nature of the VTuber industry, showcasing the emergence of new players in the field. As a rising star, Phase Connect brings fresh perspectives and innovative approaches to virtual entertainment. The agency's focus on building a close-knit community of talents and fans alike reflects the changing dynamics of the industry, where authenticity and personal connection play key roles in success. By fostering a supportive environment for its VTubers and encouraging creative freedom, Phase Connect contributes to the diversification and growth of the VTuber ecosystem, highlighting the potential for new narratives and forms of engagement in the digital age.
 
 
+### Nijisanji

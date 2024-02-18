@@ -1,6 +1,5 @@
 ---
 title: "Externals"
-date: 1111-11-11
 ShowBreadCrumbs: true
 shotoc: true
 hiddenInHomeList: true
@@ -35,7 +34,13 @@ Below is a slew of blogs and sites I frequent for various reasons.
 <a href="http://www.cjas.org/~leng/lain.htm">
     <img src="banners/telbanner.jpg" alt="thought experiments lain" width="200" vspace="8" hspace="8" height="46" border="0">
 </a>
-<a href='https://blinkies.cafe' target='_blank'><img src='https://blinkies.cafe/b/display/blinkiesCafe-badge.gif' alt='blinkies.cafe | make your own blinkies!'></a>
+<a href="https://anonicus.net/etc/radio">
+    <img src="https://anonicus.net/webcontent/anonicus.png" >
+</a>
+<a href='https://blinkies.cafe' target='_blank'>
+    <img src='https://blinkies.cafe/b/display/blinkiesCafe-badge.gif' alt='blinkies.cafe | make your own blinkies!'>
+</a>
+
 {{< /rawhtml >}}
 
 ## Music Blogs

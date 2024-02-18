@@ -1,7 +1,7 @@
 ---
 title: "James Harbour"
 desciption: "About me"
-date: 2022-09-06
+date: 2024-02-50
 ---
 {{< rawhtml >}}
 <div class="profile">
@@ -25,7 +25,7 @@ I am interested in various areas including:
 - Deformation/Rigidity theory for Groupoid von Neumann algebras
 - Bernoullicity of Algebraic Actions 
 - $W^*$-rigidity for Group von Neumann algebras
-- Non-free p.m.p. actions
+- Poisson Boundary theory for Measured Groupoids
 
 During high school, I took a large amount of undergraduate and some graduate courses via dual enrollment at the [University of South Florida](https://www.usf.edu/arts-sciences/departments/mathematics-statistics/index.aspx). 
 

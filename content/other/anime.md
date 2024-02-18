@@ -1,6 +1,5 @@
 ---
 title: "Anime"
-date: 2022-12-30
 ShowBreadCrumbs: true 
 showtoc: false 
 hiddenInHomeList: true

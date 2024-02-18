@@ -1,6 +1,5 @@
 ---
 title: "Music"
-date: 2022-12-30
 ShowBreadCrumbs: true 
 showtoc: false 
 hiddenInHomeList: True

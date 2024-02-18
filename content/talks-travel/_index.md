@@ -37,11 +37,6 @@ ShowBreadCrumbs: false
 *Graduate Algebraic Geometry final presentation*
 
 
-## Upcoming travel
-- 2024-01
-**Joint Math Meetings - San Francisco**,
-speaker, supported by AMS undergraduate travel grant.
-
 ## Selected travel
 - 2023-10
 **East Coast Operator Algebras Symposium**,
