@@ -64,7 +64,10 @@ Around the beginning of the COVID-19 pandemic, I entered into a rabbit hole so e
 
 ## Clipping Channels
 
-Clippers hold a pivotal role within the VTuber ecosystem, acting as essential conduits between VTubers and potential fans. These dedicated individuals spend countless hours sifting through streams, highlighting memorable moments, and making them accessible to a wider audience. Their work not only amplifies the reach of VTubers but also serves as a curated introduction for newcomers to the community. The magic of clipping channels lies in their ability to distill hours of content into bite-sized, easily digestible pieces that capture the essence, humor, and talent of VTubers. This not only helps in breaking down language barriers but also showcases the diverse talents and personalities within the VTuber community.
+Clippers hold a pivotal role within the VTuber ecosystem, acting as essential conduits between VTubers and potential fans. These dedicated individuals spend countless hours sifting through streams, highlighting memorable moments, and making them accessible to a wider audience. Their work not only amplifies the reach of VTubers but also serves as a curated introduction for newcomers to the community. The magic of clipping channels lies in their ability to distill hours of content into bite-sized, easily digestible pieces that capture the essence, humor, and talent of VTubers. This not only helps in breaking down language barriers but also showcases the diverse talents and personalities within the VTuber community. Here are two of my favorite clipping channels.
+
+* [Sakasandayo](https://www.youtube.com/@Sakasandayo), a Fauna clipper with consistent high quality, subtle editing to shave the the immense runtime of original Fauna VODs.
+*  [Low Effort Clips](https://www.youtube.com/c/LowEffortClips), a dedicated Phase Connect clipper and one of the most beloved clippers in the community.
 
 ## Kayfabe
 
@@ -101,15 +104,30 @@ This board is a cesspool for tribalism.
 
 Past Life Culture (PL Culture) within the VTuber community refers to the discussions, speculations, and sometimes the acknowledgement of VTubers' identities or activities before they adopted their virtual personas. This aspect of VTuber fandom is nuanced, with varying degrees of acceptance and sensitivity both among fans and VTubers themselves.
 
+![nyfco](nyfco.png)
+
+
+With the recent Dokibird and VReverie drama, the sharing of PL has begun to be more accepted in the community. This is a current shift that has yet to mature, so it remains to be seen whether this acceptance stays longterm.
+
+
 # The Vtuber Industry
 
 ### Hololive
 
 Hololive stands as a titan in the VTuber industry, a beacon of innovation and entertainment. Since its inception, Hololive has pioneered the growth of the VTuber phenomenon, bringing together a diverse array of talents under its banner. The agency's success lies not just in its ability to scout and nurture talent, but also in its visionary approach to content creation, fan engagement, and cross-cultural expansion. Hololive VTubers are known for their charismatic personalities, creative content, and the high production value of their streams. This, combined with strategic global outreach, has cemented Hololive's position as a leading force in the virtual entertainment landscape.
 
+![holobranches](hololive_branches.png)
 
 ### Phase Connect
 Phase Connect represents the dynamic and evolving nature of the VTuber industry, showcasing the emergence of new players in the field. As a rising star, Phase Connect brings fresh perspectives and innovative approaches to virtual entertainment. The agency's focus on building a close-knit community of talents and fans alike reflects the changing dynamics of the industry, where authenticity and personal connection play key roles in success. By fostering a supportive environment for its VTubers and encouraging creative freedom, Phase Connect contributes to the diversification and growth of the VTuber ecosystem, highlighting the potential for new narratives and forms of engagement in the digital age.
 
+{{< youtube NXmsw_fkau4 >}}
 
 ### Nijisanji
+Dear lord this is gonna take a while. Here is a Riku meme in the meantime
+![riku](riku_tazumi.png)
+
+
+
+
+
