@@ -10,7 +10,7 @@ date: 2024-02-50
 <span>
 
 <h1>James Harbour</h1> 
-<h2>3nd Year Undergraduate studying Mathematics and Computer Science</h2>
+<h2>3rd Year Undergraduate studying Mathematics and Computer Science</h2>
 <h3>Interests: Operator Algebras</h3>
 <h4><a href="https://math.virginia.edu/"> University of Virginia </a></h3>
 <h3>{{< /rawhtml >}}{{< social-shortcode >}}{{< rawhtml >}}</h3>
