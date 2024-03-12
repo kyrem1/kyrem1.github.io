@@ -2,7 +2,7 @@
 title: "The appeal of Vtubers"
 date: 2024-01-17
 ShowBreadCrumbs: false
-hhiddenInHomeList: true
+hiddenInHomeList: true
 draft: true
 ---
 

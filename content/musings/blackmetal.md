@@ -1,7 +1,7 @@
 ---
 title: "Why Black Metal?"
 date: 2023-03-02
-hhiddenInHomeList: true
+hiddenInHomeList: true
 ShowBreadCrumbs: false
 ---
 
