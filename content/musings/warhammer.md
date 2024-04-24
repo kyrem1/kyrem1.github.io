@@ -28,3 +28,4 @@ Below is my progress through the massive catalogue of the Black Library.
 - Ultramarines (Novel Series)
   - *Nightbringer*
 - Dark Imperium
+- Assassinorum: Kingmaker

@@ -7,9 +7,28 @@ tocopen: false
 ShowPostNavLinks: true
 ---
 
-### [MyAnimeList](https://myanimelist.net/profile/kyrem1)
+<style>
+.content a {
+    text-decoration: underline;
+}
+</style>
 
-### My current 3x3
+### [MyAnimeList](https://myanimelist.net/profile/iamtacky)
+
+### About 3x3s in the Anime Community
+"3x3s" in the anime community refer to a grid of nine images arranged in a three-by-three format, each representing an anime that the person has chosen as their favorites or as representative of their taste. This format allows anime fans to quickly and visually share their preferences with others, sparking discussions and helping to find common ground or explore new titles.
+
+Creating a 3x3 is often seen as a personal and introspective activity, as it requires the individual to reflect on which anime have had the most significant impact on them or resonate with their preferences. The choices can vary widely, from mainstream hits to obscure gems, showcasing the diversity within the anime community.
+
+Moreover, 3x3s can evolve over time, reflecting the changing tastes and experiences of the individual. They are often shared on social media platforms, anime forums, and community groups, leading to exchanges of opinions, recommendations, and sometimes debates about the merits of certain anime.
+
+In essence, the 3x3 serves as a snapshot of a person's anime journey, encapsulating their past experiences, current favorites, and future interests in a compact, visually appealing format.
+
+### 2024-Present
+- [Yuru Camp]()
+
+
+### 2020-2023 3x3
 ![img](3x3anime.jpg)
 
 Here are my above 3x3 entries listed from left to right and top to bottom:
@@ -26,14 +45,14 @@ Here are my above 3x3 entries listed from left to right and top to bottom:
 - [Ghost in the Shell: Stand Alone Complex](https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex)
     - The original *Ghost in the Shell* film was the progenitor for sci-fi anime and set the tone for the genre. It utilized the setting to address incredibly poigniant themes such as the nature of intelligence and the soul. The spin-off series *Stand Alone Complex* further pursues these themes with the precision of a scalpel. The show has thematic fish to fry and it isn't afraid to go all in.
 - [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)
-    - TODO
+    - TODO hellow there
 - [Steins Gate](https://myanimelist.net/anime/9253/Steins_Gate)
-    - TODO
+    - It's hard to write about things which embed themselves within your core memory, as you can't imagine what it was like before you experienced said thing. Steins Gate is one of those shows. I watched it in 7th grade in 2 nights, and I was never the same. Kurisu and Okabe were the model for what real love is: *transcendent*.
 - [Clannad: After Story](https://myanimelist.net/anime/4181/Clannad__After_Story)
     - Even though I skipped the original Clannad, this series still made me ball for days on end. I don't think anything has ever hit me as hard as this show has. Truly an emotional masterpiece.
 ****
 
-### My Otaku Interests
+### Otaku-related Interests
 
 - Denpa
 - Gunpla
