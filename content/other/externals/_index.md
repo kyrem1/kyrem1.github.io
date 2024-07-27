@@ -26,6 +26,12 @@ Below is a slew of blogs and sites I frequent for various reasons.
 * [0x46](https://0x46.net/)
 * [ReasonableDeviations](https://reasonabledeviations.com/)
 
+## Cybersecurity blogs
+* [vxunderground](https://vx-underground.org/)
+* [tmpout](https://tmpout.sh/)
+* [phrack](http://www.phrack.org/)
+* [Paged Out](https://pagedout.institute/)
+
 ## Otaku blogs
 {{< rawhtml >}}
 <a href="https://artificialnightsky.neocities.org">
@@ -46,3 +52,4 @@ Below is a slew of blogs and sites I frequent for various reasons.
 ## Music Blogs
 
 * [Denpa Guide](http://denpa.omaera.org/)
+* [Sophie's Floorboard](http://sophiesfloorboard.blogspot.com/)

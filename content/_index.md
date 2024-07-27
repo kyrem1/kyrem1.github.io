@@ -10,7 +10,7 @@ date: 2024-02-50
 <span>
 
 <h1>James Harbour</h1> 
-<h2>3rd Year Undergraduate studying Mathematics and Computer Science</h2>
+<h2>4th Year Undergraduate studying Mathematics and Computer Science</h2>
 <h3>Interests: Operator Algebras</h3>
 <h4><a href="https://math.virginia.edu/"> University of Virginia </a></h3>
 <h3>{{< /rawhtml >}}{{< social-shortcode >}}{{< rawhtml >}}</h3>
@@ -19,7 +19,7 @@ date: 2024-02-50
 {{< /rawhtml >}} 
 
 
-I am a 3rd year undergraduate currently studying operator algebras under [Dr. Benjamin Hayes](https://sites.google.com/site/benhayeshomepage/) at the University of Virginia, partially supported by NSF grant DMS-2000105.
+I am a 4th year undergraduate currently studying operator algebras under [Dr. Benjamin Hayes](https://sites.google.com/site/benhayeshomepage/) at the University of Virginia, partially supported by NSF grant DMS-2000105.
 
 I am interested in various areas including:
 - Deformation/Rigidity theory for Groupoid von Neumann algebras

@@ -4,13 +4,30 @@ date: 2023-03-03
 ShowBreadCrumbs: false
 ---
 
-### In Progress
+
+
+### In Preparation Phase
 
 * Discrete measured groupoid von Neumann algebras via malleable deformations and $L^2$-cohomology, joint with [Felipe Flores](https://sites.google.com/view/felipefloresllarena/)
 
 Given a probability measure preserving groupoid $\mathcal{G}$, we study properties of the corresponding von Neumann algebra $L(\mathcal{G})$ using the techniques of deformation-rigidity theory. Building on work of Sinclair and Hoff, we extend the Gaussian construction for equivalence relations to general measured groupoids. Using Popa's spectral gap argument, we then obtain structural properties about $L(\mathcal{G})$ including primeness and lack of property $(\Gamma)$. We also generalize results of de Santiago, Hayes, Hoff, and Sinclair to characterize maximal rigid subalgebras of $L(\mathcal{G})$ in terms of the corresponding groupoid $L^2$-cohomology.
 
-### Expository Work
+
+### In Ideation Phase
+
+* A Theory of Biexact Groupoids and Their von Neumann Algebras, joint with [Felipe Flores](https://sites.google.com/view/felipefloresllarena/) and [Kai Toyosawa](https://as.vanderbilt.edu/math/bio/?who=kai-toyosawa).
+
+TODO add explanation 
+
+* Groupoid Poisson boundaries, Random Walks, and the Noncommutative Poisson Boundary. 
+
+
+TODO add explanation
+
+
+## Expository Work
+
+Undergraduate Thesis: *Introduction to the Modern Theory of Groupoid von Neumann Algebras.* (in progress)
 
 * [Asymptotics of Fractional Sobolev Norms and $s$-Perimeter](https://github.com/kyrem1/fractionalperimeter/blob/main/tmp/main.pdf)
 

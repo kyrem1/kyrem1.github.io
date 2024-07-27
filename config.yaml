@@ -30,12 +30,12 @@ params:
 
   DateFormat: '2006-01-02'
 
-  defaultTheme: "dark"
+  defaultTheme: "light"
   disableThemeToggle: false 
 
   ShowBreadCrumbs: true
 
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   ShowFullTextinRSS: true
 
   showtoc: true
@@ -155,22 +155,22 @@ menu:
     - identifier: "Talks and Travel"
       name: "Talks and travel"
       url: "talks-travel"
-      weight: 1
+      weight: 20
 
     #- identifier: "Teaching"
     #  name: "Teaching"
     #  url: "teaching"
     #  weight: 40
 
-    - identifier: "Musings"
-      name: "Musings"
-      url: "musings"
-      weight: 2
+    #- identifier: "Musings"
+    #  name: "Musings"
+    #  url: "musings"
+    #  weight: 2
 
     - identifier: "Other"
       name: "Other"
       url: "other"
-      weight: 3 
+      weight: 30
 
 
 

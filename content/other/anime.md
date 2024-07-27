@@ -45,9 +45,9 @@ Here are my above 3x3 entries listed from left to right and top to bottom:
 - [Ghost in the Shell: Stand Alone Complex](https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex)
     - The original *Ghost in the Shell* film was the progenitor for sci-fi anime and set the tone for the genre. It utilized the setting to address incredibly poigniant themes such as the nature of intelligence and the soul. The spin-off series *Stand Alone Complex* further pursues these themes with the precision of a scalpel. The show has thematic fish to fry and it isn't afraid to go all in.
 - [Serial Experiments Lain](https://myanimelist.net/anime/339/Serial_Experiments_Lain)
-    - TODO hellow there
+    - TODO 
 - [Steins Gate](https://myanimelist.net/anime/9253/Steins_Gate)
-    - It's hard to write about things which embed themselves within your core memory, as you can't imagine what it was like before you experienced said thing. Steins Gate is one of those shows. I watched it in 7th grade in 2 nights, and I was never the same. Kurisu and Okabe were the model for what real love is: *transcendent*.
+    - It's hard to write about things which embed themselves within your core memory, as you can't imagine what it was like before you experienced said thing. Steins Gate is one of those shows. 
 - [Clannad: After Story](https://myanimelist.net/anime/4181/Clannad__After_Story)
     - Even though I skipped the original Clannad, this series still made me ball for days on end. I don't think anything has ever hit me as hard as this show has. Truly an emotional masterpiece.
 ****
