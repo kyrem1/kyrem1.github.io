@@ -5,6 +5,10 @@ ShowBreadCrumbs: false
 ---
 
 ## Selected talks
+- 2024-11
+**Sofic Actions and the Generalized Elek-Szabo Property via the Loeb Measure Space**,
+*UVA Sofic Groups and Stability Seminar*
+
 - 2023-10
 **$\alpha$-stable Levy Processes and Fractional Laplacians**,
 *Graduate Random Walks on Groups lecture*
@@ -38,6 +42,19 @@ ShowBreadCrumbs: false
 
 
 ## Selected travel
+- 2026-07
+**Groundwork in Operator Algebras Lecture Series**
+*Michigan State University*, attendee.
+
+- 2025-07
+**Young Mathematicians in C\*-algebras**
+*Southern Denmark University*, attendee.
+
+- 2024-10 
+**Virginia Operator Theory and Complex Analysis Meeting (VOTCAM)**
+*Richmond University*, attendee.
+
+
 - 2023-10
 **East Coast Operator Algebras Symposium**,
 *Purdue University*, attendee, supported by NSF grant DMS-2321632

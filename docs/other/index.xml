@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James Harbour</title>
-    <link>https://kyrem1.github.io/other/</link>
+    <link>http://localhost:1313/other/</link>
     <description>Recent content on James Harbour</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://kyrem1.github.io/other/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/other/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anime</title>
-      <link>https://kyrem1.github.io/other/anime/</link>
+      <link>http://localhost:1313/other/anime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kyrem1.github.io/other/anime/</guid>
+      <guid>http://localhost:1313/other/anime/</guid>
       <description>MyAnimeList About 3x3s in the Anime Community &amp;ldquo;3x3s&amp;rdquo; in the anime community refer to a grid of nine images arranged in a three-by-three format, each representing an anime that the person has chosen as their favorites or as representative of their taste. This format allows anime fans to quickly and visually share their preferences with others, sparking discussions and helping to find common ground or explore new titles.
 Creating a 3x3 is often seen as a personal and introspective activity, as it requires the individual to reflect on which anime have had the most significant impact on them or resonate with their preferences.</description>
       <content:encoded><![CDATA[<!-- raw HTML omitted -->
@@ -87,11 +87,12 @@ Creating a 3x3 is often seen as a personal and introspective activity, as it req
     </item>
     <item>
       <title>Music</title>
-      <link>https://kyrem1.github.io/other/music/</link>
+      <link>http://localhost:1313/other/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kyrem1.github.io/other/music/</guid>
+      <guid>http://localhost:1313/other/music/</guid>
       <description>3x3 Collection 2023 2021 Entries (left to right top to bottom) 2023: Sunbather, Deafheaven In Rainbows, Radiohead LSD and the Search for God Selected Ambient Works 85-92, Aphex Twin &amp;lsquo;77 Live, Les Rallizes Dénudés Jane Doe, Converge White Pony, Deftones Dopethrone, Electric Wizard Take Me to Your Leader, King Geedorah 2021: Portal of I, Ne Obliviscaris Chet Baker Sings For You, Tatsuro Yamashita All of Me, Masayoshi Takanaka N.O.I.S.E., Ghostemane Exercises in Futility, mgla World is Yours, Mass of the Fermenting Dregs Dopethrone, Electric Wizard MadVillany, MF Doom </description>
       <content:encoded><![CDATA[<h1 id="3x3-collection">3x3 Collection</h1>
+
 
 <style>
 .container {
