@@ -8,7 +8,7 @@ description: "About me"
 <div class="profile_inner">
 {{< /rawhtml >}}
 
-{{< inTextImg url="chicagocopy.jpg" width=100% >}}
+{{< inTextImg url="newphoto.jpg" width=100% >}}
 
 {{< rawhtml >}}
 <span>
